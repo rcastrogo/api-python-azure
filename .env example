@@ -1,0 +1,6 @@
+
+AZURE_LOCATION="swedencentral"
+AZURE_SUBSCRIPTION_ID="xxxx-xxxx-xxxx-xxx-xxxx"
+AZURE_OPENAI_KEY="XXXXXXXXXXXXXXXXX"
+AZURE_OPENAI_ENDPOINT="https://ai-azure-rcastrogo.services.ai.azure.com"
+AZURE_OPENAI_DEPLOYMENT="gpt-4.1-mini"

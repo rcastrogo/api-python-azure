@@ -1,0 +1,9 @@
+
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app # Sincroniza cambios en tiempo real (modo desarrollo)
+    restart: always
